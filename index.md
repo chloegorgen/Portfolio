@@ -88,6 +88,14 @@ Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and 
 # Portfolio
 
 [Predicting IMDb Rating of movies on streaming services based on its characteristics.](file:///Users/chloegorgen/Downloads/Final_Paper_Group_5.html) 
+- Programming Language: R
 - Analysis of Covariance
 - Lasso Regression
 - Random Forest Regression
+
+Global Poverty, Mortality, and Population Growth Patterns 
+- Programming Language: Python
+- Hypothesis testing
+- Simulation
+
+
