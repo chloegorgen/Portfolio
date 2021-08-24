@@ -27,19 +27,19 @@ International Baccalaureate Diploma, Summa Cum Laude
 
 ## Work Experience
 
-**_Technical Product Management Intern_**, Fusion Cyber, **June 2021 - August 2021**
+**_Technical Product Management Intern_**, [Fusion Cyber](https://fusioncyber.co/), **June 2021 - August 2021**
 
 - Built and Managed a Learning Module System designed for Higher Education purposes at multiple accredited universities
 - Installed a course-wide meta-link and configured student assignment
 - Maintained Accessibility 508 compliance in all uploaded coursework
 
-**_Financial Analyst_**, Dunning Capital, **June 2021 - August 2021**
+**_Financial Analyst_**, [Dunning Capital](http://dunningcapital.com/), **June 2021 - August 2021**
 
 - Compiled market research and revenue data in businesses in sustainable food and technology
 - Applied market research and revenue data in creating business acquisition reports
 - Assessed risk in potential acquisition deals
 
-**_Web Development Intern_**, Cardinal Group Marketing, **June 2020 - August 2020**
+**_Web Development Intern_**, [Cardinal Group Marketing](https://www.cardinalgroupmarketing.com/), **June 2020 - August 2020**
 
 -	Updated a small business’s website content and design, adding visual appeal and improving user interface
 -	Applied data in user behavior to optimize business outcomes
@@ -94,7 +94,7 @@ Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and 
 - Lasso Regression
 - Random Forest Regression
 
-Global Poverty, Mortality, and Population Growth Patterns 
+[Global Poverty, Mortality, and Population Growth Patterns]()
 - Programming Language: Python
 - Hypothesis testing
 - Simulation
