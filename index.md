@@ -5,17 +5,18 @@ I am a Junior at the University of North Carolina at Chapel Hill majoring in Sta
 The first portion of this website will be devoted to explaining my background and skills, and the second portion will show some of the projects I have completed over the last two years. 
 
 ## Education
-**_University of North Carolina at Chapel Hill_ August 2019 - Present**
+**_University of North Carolina at Chapel Hill_, August 2019 - Present**
 
 Major: Statistics and Analytics
 
 Minor: Computer Science
 
-Current GPA: 3.5
+Cumulative GPA: 3.5
+Major GPA: 3.7
 
 
 
-**_Walter Hines Page High School_ August 2015 - May 2019**
+**_Walter Hines Page High School_, August 2015 - May 2019**
 
 Diploma with Academic Distinction
 
@@ -25,13 +26,13 @@ International Baccalaureate Diploma, Summa Cum Laude
 
 ## Work Experience
 
-**_Technical Product Management Intern_**, Fusion Cyber **June 2021 - August 2021**
+**_Technical Product Management Intern_**, Fusion Cyber, **June 2021 - August 2021**
 
 - Built and Managed a Learning Module System designed for Higher Education purposes at multiple accredited universities
 - Installed a course-wide meta-link and configured student assignment
 - Maintained Accessibility 508 compliance in all uploaded coursework
 
-**_Financial Analyst_**, Dunning Capital **June 2021 - August 2021**
+**_Financial Analyst_**, Dunning Capital, **June 2021 - August 2021**
 
 - Compiled market research and revenue data in businesses in sustainable food and technology
 - Applied market research and revenue data in creating business acquisition reports
@@ -46,7 +47,7 @@ International Baccalaureate Diploma, Summa Cum Laude
 
 ## Leadership Experience
 
-**_Vice President Academic Excellence_**, Kappa Kappa Gamma **November 2020 - Present**
+**_Vice President Academic Excellence_**, Kappa Kappa Gamma, **November 2020 - Present**
 
 -	Generate membership grade reports including group performance trends and individual academic assessments
 -	Digitize academic resources and lead initiatives to increase engagement
@@ -86,7 +87,7 @@ Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and 
 
 # Portfolio
 
-Predicting IMDb Rating of movies on streaming services based on its characteristics. 
+[Predicting IMDb Rating of movies on streaming services based on its characteristics.](file:///Users/chloegorgen/Downloads/Final_Paper_Group_5.html) 
 - Analysis of Covariance
 - Lasso Regression
 - Random Forest Regression
