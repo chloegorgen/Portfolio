@@ -12,6 +12,7 @@ Major: Statistics and Analytics
 Minor: Computer Science
 
 Cumulative GPA: 3.5
+
 Major GPA: 3.7
 
 
