@@ -88,7 +88,7 @@ Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and 
 
 # Portfolio
 
-[Predicting IMDb Rating of movies on streaming services based on its characteristics.](Final_Paper_Group_5.html) 
+[Predicting IMDb Rating of movies on streaming services based on its characteristics.](Movie_Analysis.html) 
 
 Programming Language: R
 - Analysis of Covariance
