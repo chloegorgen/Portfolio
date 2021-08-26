@@ -90,15 +90,14 @@ Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and 
 
 [Predicting Movie Ratings based on its Characteristics.](Movie_Analysis.html) 
 
+The size of this analysis in its entirety is 2.43 MB, which is too large to be displayed on Github. However, an abridged version of this analysis can be viewed [here](). The abridged analysis as well as the [presentation of results](https://docs.google.com/presentation/d/1OAf-YIxigzYwlMHjwEJBG4OtYUSpFiw6rhy2rk7XiFY/edit?usp=sharing) only attempts to predict IMDb rating, but the entire analysis including prediction of Rotten Tomato rating with both Lasso Regressions and Random Forest Regressions can be shared through email upon request.
+
 Programming Language: R
 
 Dimensions: 16,774 observations, 17 variables
 - Analysis of Covariance
 - Lasso Regression
 - Random Forest Regression
-
-The findings of this analysis were presented using the following [presentation](https://docs.google.com/presentation/d/1OAf-YIxigzYwlMHjwEJBG4OtYUSpFiw6rhy2rk7XiFY/edit?usp=sharing).
-
 
 [Prevalence, Causes, and Treatments of Coronary Heart Disease](CHD_Analysis.ipynb)
 
