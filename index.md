@@ -100,7 +100,7 @@ Dimensions: 16,774 observations, 17 variables
 The findings of this analysis were presented using the following [presentation](https://docs.google.com/presentation/d/1OAf-YIxigzYwlMHjwEJBG4OtYUSpFiw6rhy2rk7XiFY/edit?usp=sharing).
 
 
-[Prevalence, Causes, and Treatments of Coronary Heart Disease](CHD_Analysis.ipbyn)
+[Prevalence, Causes, and Treatments of Coronary Heart Disease](CHD_Analysis.ipynb)
 
 Programming Language: Python
 
