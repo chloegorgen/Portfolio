@@ -88,17 +88,28 @@ Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and 
 
 # Portfolio
 
-[Predicting IMDb Rating of movies on streaming services based on its characteristics.](Movie_Analysis.html) 
+[Predicting Movie Ratings based on its Characteristics.](Movie_Analysis.html) 
 
 Programming Language: R
+Dimensions: 16,774 observations, 17 variables
 - Analysis of Covariance
 - Lasso Regression
 - Random Forest Regression
 
-[Global Poverty, Mortality, and Population Growth Patterns]()
+The findings of this analysis were presented using the following [presentation](https://docs.google.com/presentation/d/1OAf-YIxigzYwlMHjwEJBG4OtYUSpFiw6rhy2rk7XiFY/edit?usp=sharing).
+
+
+[Prevalence, Causes, and Treatments of Coronary Heart Disease](CHD_Analysis.ipbyn)
 
 Programming Language: Python
+Dimensions:
+1. Global Causes of Death (1900 - 2015) - 580 observations, 3 variables
+2. Framingham Heart Study - 3,842 observations, 8 variables
+3. The Nurses Health Study - 105,787 observations, 2 variables
+4. Heart and Estrogen-Progestin Replacement Study (HERS) - 2,763 observations, 2 variables
+
 - Hypothesis testing
 - Simulation
+- A/B testing
 
 
