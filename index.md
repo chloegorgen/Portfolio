@@ -91,6 +91,7 @@ Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and 
 [Predicting Movie Ratings based on its Characteristics.](Movie_Analysis.html) 
 
 Programming Language: R
+
 Dimensions: 16,774 observations, 17 variables
 - Analysis of Covariance
 - Lasso Regression
@@ -102,6 +103,7 @@ The findings of this analysis were presented using the following [presentation](
 [Prevalence, Causes, and Treatments of Coronary Heart Disease](CHD_Analysis.ipbyn)
 
 Programming Language: Python
+
 Dimensions:
 1. Global Causes of Death (1900 - 2015) - 580 observations, 3 variables
 2. Framingham Heart Study - 3,842 observations, 8 variables
