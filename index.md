@@ -88,7 +88,7 @@ Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and 
 
 # Portfolio
 
-[Predicting Movie Ratings based on its Characteristics.](Movie_Analysis.html) 
+[Predicting Movie Ratings based on its Characteristics.](Abridged_Movie_Analysis.html) 
 
 The size of this analysis in its entirety is 2.43 MB, which is too large to be displayed on Github. However, an abridged version of this analysis can be viewed [here](). The abridged analysis as well as the [presentation of results](https://docs.google.com/presentation/d/1OAf-YIxigzYwlMHjwEJBG4OtYUSpFiw6rhy2rk7XiFY/edit?usp=sharing) only attempts to predict IMDb rating, but the entire analysis including prediction of Rotten Tomato rating with both Lasso Regressions and Random Forest Regressions can be shared through email upon request.
 
