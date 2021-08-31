@@ -88,9 +88,9 @@ Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and 
 
 # Portfolio
 
-[Predicting Movie Ratings based on its Characteristics.](Abridged_Movie_Analysis.html) 
+[Predicting Movie Ratings based on its Characteristics.](Abridged Movie Analysis.pdf) 
 
-The size of this html analysis in its entirety is 2.43 MB, which is too large to be displayed on Github. However, an abridged pdf version of this analysis can be viewed [here](Abridged Movie Analysis.pdf). The abridged analysis, as well as the [presentation of results](https://docs.google.com/presentation/d/1OAf-YIxigzYwlMHjwEJBG4OtYUSpFiw6rhy2rk7XiFY/edit?usp=sharing) answers the question: What are the most influential factors that IMDb uses to determine their ratings of films? And how can we use these ratings to choose the best streaming service? The full investigation, including Lasso Regression and Random Forest Regression on Rotten Tomatoes scores, is available upon request.
+The size of this html analysis in its entirety is 2.43 MB, which is too large to be displayed on Github. However, the above dovumen is an abridged, pdf version of the investigation. The abridged analysis, as well as the [presentation of results](https://docs.google.com/presentation/d/1OAf-YIxigzYwlMHjwEJBG4OtYUSpFiw6rhy2rk7XiFY/edit?usp=sharing) answers the question: What are the most influential factors that IMDb uses to determine their ratings of films? And how can we use these ratings to choose the best streaming service? The full investigation, including Lasso Regression and Random Forest Regression on Rotten Tomatoes scores, is available upon request.
 
 Programming Language: R
 
