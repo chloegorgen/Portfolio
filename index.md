@@ -106,6 +106,7 @@ International Baccalaureate Diploma, Summa Cum Laude
 - Carolina For the Kids
 - Carolina Women in Computer Science
 - Pearl Hacks (Coding Marathon)
+- Carolina Data Challenge (Big Data, Coding Competition)
 
 ## References 
 **Available upon request.**
