@@ -1,7 +1,7 @@
 # Chloe Gorgen's Resume and Portfolio
 
 
-I am a Junior at the University of North Carolina at Chapel Hill majoring in Statistics and Analytics and minoring in Computer Science. I aspire to work in Data Analytics or Data Science to use Machine Learning, Predictive Analysis, and Optimization to imrpove internal business intelligence. 
+I am a Junior at the University of North Carolina at Chapel Hill majoring in Statistics and Analytics and Computer Science. I aspire to work in Data Analytics or Data Science to use Machine Learning, Predictive Analysis, and Optimization to imrpove internal business intelligence. 
 
 The first portion of this website will be devoted to explaining my background and skills, and the second portion will show some of the projects I have completed over the last two years. 
 
