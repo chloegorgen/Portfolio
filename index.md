@@ -61,7 +61,7 @@ International Baccalaureate Diploma, Summa Cum Laude
 **_Technical Product Management Intern_**, [Fusion Cyber](https://fusioncyber.co/), **June 2021 - August 2021**
 
 - Built and Managed a Learning Module System designed for Higher Education purposes at multiple accredited universities
-- Installed a course-wide meta-link and configured student assignment
+- Installed a course-wide meta-link and configured student assignments
 - Maintained Accessibility 508 compliance in all uploaded coursework
 
 **_Financial Analyst_**, [Dunning Capital](http://dunningcapital.com/), **June 2021 - August 2021**
