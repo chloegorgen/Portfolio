@@ -38,7 +38,7 @@ International Baccalaureate Diploma, Summa Cum Laude
 
 - Compiled market research and revenue data in businesses in sustainable food and technology
 - Applied market research and revenue data in creating business acquisition reports
-- Attended calls with clients and 
+- Attended calls with clients and partner businesses
 
 **_Web Development Intern_**, [Cardinal Group Marketing](https://www.cardinalgroupmarketing.com/), **June 2020 - August 2020**
 
