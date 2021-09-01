@@ -1,10 +1,11 @@
 # Chloe Gorgen's Resume and Portfolio
 
+
 I am a Junior at the University of North Carolina at Chapel Hill majoring in Statistics and Analytics and minoring in Computer Science. I aspire to work in Data Analytics or Data Science to use Machine Learning, Predictive Analysis, and Optimization to imrpove internal business intelligence. 
 
 The first portion of this website will be devoted to explaining my background and skills, and the second portion will show some of the projects I have completed over the last two years. 
 
-## Education
+# Education
 **_University of North Carolina at Chapel Hill_, August 2019 - Present**
 
 Major: Statistics and Analytics
@@ -25,7 +26,7 @@ GPA: 4.6/5.0, 4.0/4.0
 
 International Baccalaureate Diploma, Summa Cum Laude
 
-## Work Experience
+# Work Experience
 
 **_Technical Product Management Intern_**, [Fusion Cyber](https://fusioncyber.co/), **June 2021 - August 2021**
 
@@ -37,7 +38,7 @@ International Baccalaureate Diploma, Summa Cum Laude
 
 - Compiled market research and revenue data in businesses in sustainable food and technology
 - Applied market research and revenue data in creating business acquisition reports
-- Assessed risk in potential acquisition deals
+- Attended calls with clients and 
 
 **_Web Development Intern_**, [Cardinal Group Marketing](https://www.cardinalgroupmarketing.com/), **June 2020 - August 2020**
 
@@ -46,7 +47,7 @@ International Baccalaureate Diploma, Summa Cum Laude
 -	Collected membership data of a non-profit to improve its website design-concepts and implementations
 
 
-## Leadership Experience
+# Leadership Experience
 
 **_Vice President Academic Excellence_**, Kappa Kappa Gamma, **November 2020 - Present**
 
@@ -60,7 +61,7 @@ International Baccalaureate Diploma, Summa Cum Laude
  community involvement
 -	Planned the “5k For the Kids” and the “Dance Marathon Olympics” fundraising events
 
-## Skills
+# Skills
 
 - Python
 - Java
@@ -69,22 +70,19 @@ International Baccalaureate Diploma, Summa Cum Laude
 - Microsoft Office 
 - Data Analytics and Software Engineering
 
-## Involvements
+# Involvements
 
 - Kappa Kappa Gamma
 - Carolina For the Kids
 - Carolina Women in Computer Science
 - Pearl Hacks (Coding Marathon)
 
-## References
+# References
 Chris Ettesse, _Founder, Chairman, and CEO_, Fusion Cyber
 
 Fred Castelloes, _Professor at UNC Chapel Hill_, Portuguese Department
 
 Alex Gates, _Leadership Advisor_, Kappa Kappa Gamma
-
-Mario Giacomazzo, _Professor at UNC Chapel Hill_, Departments of Statistics and Operations Research
-
 
 # Portfolio
 
