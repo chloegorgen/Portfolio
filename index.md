@@ -5,6 +5,36 @@ I am a Junior at the University of North Carolina at Chapel Hill majoring in Sta
 
 The first portion of this website will be devoted to explaining my background and skills, and the second portion will show some of the projects I have completed over the last two years. 
 
+# Portfolio
+
+[Predicting Movie Ratings based on its Characteristics.](Abridged_Movie_Analysis.pdf) 
+
+The size of this html analysis in its entirety is 2.43 MB, which is too large to be displayed on Github. However, the above dovumen is an abridged, pdf version of the investigation. The abridged analysis, as well as the [presentation of results](https://docs.google.com/presentation/d/1OAf-YIxigzYwlMHjwEJBG4OtYUSpFiw6rhy2rk7XiFY/edit?usp=sharing) answers the question: What are the most influential factors that IMDb uses to determine their ratings of films? And how can we use these ratings to choose the best streaming service? The full investigation, including Lasso Regression and Random Forest Regression on Rotten Tomatoes scores, is available upon request.
+
+Programming Language: R
+
+Dimensions: 16,774 observations, 17 variables
+- Analysis of Covariance
+- Lasso Regression
+- Random Forest Regression
+
+[Prevalence, Causes, and Treatments of Coronary Heart Disease](CHD_Analysis.ipynb)
+
+Programming Language: Python
+
+Dimensions:
+1. Global Causes of Death (1900 - 2015) - 580 observations, 3 variables
+2. Framingham Heart Study - 3,842 observations, 8 variables
+3. The Nurses Health Study - 105,787 observations, 2 variables
+4. Heart and Estrogen-Progestin Replacement Study (HERS) - 2,763 observations, 2 variables
+
+- Hypothesis testing
+- Simulation
+- A/B testing
+
+# Resume
+
+
 ## Education
 **_University of North Carolina at Chapel Hill_, August 2019 - Present**
 
@@ -77,38 +107,6 @@ International Baccalaureate Diploma, Summa Cum Laude
 - Carolina Women in Computer Science
 - Pearl Hacks (Coding Marathon)
 
-## References
-Chris Ettesse, _Founder, Chairman, and CEO_, Fusion Cyber
-
-Fred Castelloes, _Professor at UNC Chapel Hill_, Portuguese Department
-
-Alex Gates, _Leadership Advisor_, Kappa Kappa Gamma
-
-# Portfolio
-
-[Predicting Movie Ratings based on its Characteristics.](Abridged_Movie_Analysis.pdf) 
-
-The size of this html analysis in its entirety is 2.43 MB, which is too large to be displayed on Github. However, the above dovumen is an abridged, pdf version of the investigation. The abridged analysis, as well as the [presentation of results](https://docs.google.com/presentation/d/1OAf-YIxigzYwlMHjwEJBG4OtYUSpFiw6rhy2rk7XiFY/edit?usp=sharing) answers the question: What are the most influential factors that IMDb uses to determine their ratings of films? And how can we use these ratings to choose the best streaming service? The full investigation, including Lasso Regression and Random Forest Regression on Rotten Tomatoes scores, is available upon request.
-
-Programming Language: R
-
-Dimensions: 16,774 observations, 17 variables
-- Analysis of Covariance
-- Lasso Regression
-- Random Forest Regression
-
-[Prevalence, Causes, and Treatments of Coronary Heart Disease](CHD_Analysis.ipynb)
-
-Programming Language: Python
-
-Dimensions:
-1. Global Causes of Death (1900 - 2015) - 580 observations, 3 variables
-2. Framingham Heart Study - 3,842 observations, 8 variables
-3. The Nurses Health Study - 105,787 observations, 2 variables
-4. Heart and Estrogen-Progestin Replacement Study (HERS) - 2,763 observations, 2 variables
-
-- Hypothesis testing
-- Simulation
-- A/B testing
-
+## References 
+**Available upon request.**
 
