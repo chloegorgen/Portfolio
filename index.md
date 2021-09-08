@@ -79,13 +79,13 @@ International Baccalaureate Diploma, Summa Cum Laude
 
 ## Leadership Experience
 
-**_Vice President Academic Excellence_**, Kappa Kappa Gamma, **November 2020 - Present**
+**_Vice President Academic Excellence_**, [Kappa Kappa Gamma](https://unc.kappa.org/chapter-officers), **November 2020 - Present**
 
 -	Generate membership grade reports including group performance trends and individual academic assessments
 -	Digitize academic resources and lead initiatives to increase engagement
 -	Maintain confidentiality regarding membership grade point averages and academic standing
 
-**_Committee Member_**, Carolina For the Kids, **August 2019 - March 2020**
+**_Committee Member_**, [Carolina For the Kids](http://www.carolinaftk.org/), **August 2019 - March 2020**
 
 -	Organized numerous events within and surrounding and Dance Marathon including securing performance groups, brainstorming themes and activities, and increasing
  community involvement
