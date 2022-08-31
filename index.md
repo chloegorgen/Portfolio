@@ -7,7 +7,7 @@ The first portion of this page provides details and access to some of my analyti
 
 # Portfolio
 
-[AWS Samples COntribution: Video Conferencing Tool](https://github.com/aws-samples/amazon-transcribe-video-conferencing-tool)
+[AWS Samples Contribution: Video Conferencing Tool](https://github.com/aws-samples/amazon-transcribe-video-conferencing-tool)
 
 This project provides two templates to build a video conferencing tool within an AWS account which does the following:
 - produces a transcript of a video input
