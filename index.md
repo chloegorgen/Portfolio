@@ -1,11 +1,18 @@
 # Chloe Gorgen's Resume and Portfolio
 
 
-I am a Junior at the University of North Carolina at Chapel Hill majoring in Statistics and Analytics and minoring in Data Science. I aspire to work in Data Analytics or Data Science to use Machine Learning, Predictive Analysis, and Optimization to improve internal business intelligence. 
+I am a Senior at the University of North Carolina at Chapel Hill majoring in Statistics and Analytics and minoring in Data Science. I aspire to dive deeper into AI and ML technologies as I start my career in Solutions Architecture.
 
 The first portion of this page provides details and access to some of my analytics projects, and the second portion details my educational background and experience.
 
 # Portfolio
+
+[AWS Samples COntribution: Video Conferencing Tool](https://github.com/aws-samples/amazon-transcribe-video-conferencing-tool)
+
+This project provides two templates to build a video conferencing tool within an AWS account which does the following:
+- produces a transcript of a video input
+- identifies personally identifiable information in the input and removes volume during those entities in the output
+- generates a non-extractive video summary using a version of [BART](https://huggingface.co/sshleifer/distilbart-cnn-12-6)
 
 [Predicting Movie Ratings based on its Characteristics.](Abridged_Movie_Analysis.pdf) 
 
@@ -32,6 +39,7 @@ Dimensions:
 - Simulation
 - A/B testing
 
+
 # Resume
 
 
@@ -57,6 +65,12 @@ GPA: 4.6/5.0, 4.0/4.0
 International Baccalaureate Diploma, Summa Cum Laude
 
 ## Work Experience
+
+**_Solutions Architect Intern_**, [AWS](https://aws.amazon.com/?nc2=h_lg), **May 2022 - August 2022**
+
+- Build a video conferencing tool (see portfolio) to increase the value of recorded meetings
+- Achieved the [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/f1b617c3-45d2-4a22-9523-13bc2563339e) certification
+- Presented project to the client team and led discussions about integration into existing systems
 
 **_Technical Product Management Intern_**, [Fusion Cyber](https://fusioncyber.co/), **June 2021 - August 2021**
 
