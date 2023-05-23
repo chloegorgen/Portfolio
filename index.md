@@ -1,7 +1,7 @@
 # Chloe Gorgen's Resume and Portfolio
 
 
-I am a Senior at the University of North Carolina at Chapel Hill majoring in Statistics and Analytics and minoring in Data Science. I aspire to dive deeper into AI and ML technologies as I start my career in Solutions Architecture.
+I am recent graduate of the University of North Carolina at Chapel Hill with a Bachelor's in Science of Statistics and Analytics with a minor in Data Science. I aspire to dive deeper into AI and ML technologies as I start my career in Solutions Architecture.
 
 The first portion of this page provides details and access to some of my analytics projects, and the second portion details my educational background and experience.
 
