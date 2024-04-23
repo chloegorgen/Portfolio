@@ -44,7 +44,7 @@ Dimensions:
 
 
 ## Education
-**_University of North Carolina at Chapel Hill_, August 2019 - Present**
+**_University of North Carolina at Chapel Hill_, 2019 - 2023**
 
 Major: Statistics and Analytics
 
@@ -65,6 +65,12 @@ GPA: 4.6/5.0, 4.0/4.0
 International Baccalaureate Diploma, Summa Cum Laude
 
 ## Work Experience
+
+**_Solutions Architect_**, [AWS](https://aws.amazon.com/?nc2=h_lg), **July 2023 - Present**
+
+- Design and implement scalable, highly available, and cost-effective AWS cloud architectures to meet client requirements.
+- Provided technical leadership and guidance to development teams throughout the project lifecycle.
+- Conduct architecture reviews, identify design gaps, and propose solutions to optimize performance, security, and reliability.
 
 **_Solutions Architect Intern_**, [AWS](https://aws.amazon.com/?nc2=h_lg), **May 2022 - August 2022**
 
@@ -91,19 +97,19 @@ International Baccalaureate Diploma, Summa Cum Laude
 -	Collected membership data of a non-profit to improve its website design-concepts and implementations
 
 
-## Leadership Experience
+## Collegiate Leadership Experience
 
-**_Vice President Academic Excellence_**, [Kappa Kappa Gamma](https://unc.kappa.org/chapter-officers), **November 2020 - Present**
+**_Vice President Outreach_**, [UNC Panhellenic Council](https://www.uncpanhellenic.com/), **November 2021 - November 2022**
 
--	Generate membership grade reports including group performance trends and individual academic assessments
--	Digitize academic resources and lead initiatives to increase engagement
--	Maintain confidentiality regarding membership grade point averages and academic standing
+-	Established and fostered relationships between the UNC Panhellenic Council and other campus groups
+-	Incentivized Panhellenic support of other Greek council (NPC, NPHC, IFC) events by use of the "Greek Point"
+-	Oversaw the Panhellenic DEI Committee, including interviewing and selecting committee members, drafting committee goals, and leading all DEI Committee efforts in collaboration with the Panhellenic DEI Chairman
 
-**_Committee Member_**, [Carolina For the Kids](http://www.carolinaftk.org/), **August 2019 - March 2020**
+**_Vice President Academic Excellence_**, [Kappa Kappa Gamma](https://unc.kappa.org/chapter-officers), **November 2020 - November 2021**
 
--	Organized numerous events within and surrounding and Dance Marathon including securing performance groups, brainstorming themes and activities, and increasing
- community involvement
--	Planned the “5k For the Kids” and the “Dance Marathon Olympics” fundraising events
+-	Generated membership grade reports including group performance trends and individual academic assessments
+-	Digitized academic resources and led initiatives to increase engagement
+-	Maintained confidentiality regarding membership grade point averages and academic standing
 
 ## Skills
 
