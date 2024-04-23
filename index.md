@@ -71,6 +71,7 @@ International Baccalaureate Diploma, Summa Cum Laude
 - Design and implement scalable, highly available, and cost-effective AWS cloud architectures to meet client requirements.
 - Provided technical leadership and guidance to development teams throughout the project lifecycle.
 - Conduct architecture reviews, identify design gaps, and propose solutions to optimize performance, security, and reliability.
+- Achieved the AWS Associate Solutions Architect and AWS Certified Developer Certifications
 
 **_Solutions Architect Intern_**, [AWS](https://aws.amazon.com/?nc2=h_lg), **May 2022 - August 2022**
 
